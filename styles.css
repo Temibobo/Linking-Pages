@@ -3,8 +3,8 @@ body {
     font-size: 18px;
     color: rgb(19, 19, 158);
     margin: auto;
+    background-color: bisque;
 }
-
 .heading {
     
     color: grey;
@@ -14,13 +14,16 @@ body {
 nav {
 
     color: rgb(31, 2, 2);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
 }
 
 .point {
     
     padding: 10px;
-
-}
+   }
+    
 
 .point1 {
 
@@ -30,4 +33,11 @@ nav {
 .point2 {
 
     text-align: center;
+}
+
+#point0 {
+    
+    text-align:justify;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
