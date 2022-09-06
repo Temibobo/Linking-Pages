@@ -1,0 +1,33 @@
+body {
+
+    font-size: 18px;
+    color: rgb(19, 19, 158);
+    margin: auto;
+}
+
+.heading {
+    
+    color: grey;
+    text-align: center;
+}
+
+nav {
+
+    color: rgb(31, 2, 2);
+}
+
+.point {
+    
+    padding: 10px;
+
+}
+
+.point1 {
+
+    margin-left: 15px;
+}
+
+.point2 {
+
+    text-align: center;
+}
